@@ -38974,7 +38974,7 @@ X.O1.prototype={
 $1:function(a){var t=null,s=F.cI(a,!1).a
 return M.fW(t,U.Ul(this.a,0.4),t,t,t,t,new V.aD(5,0,5,0),t,s.a)}}
 F.vq.prototype={
-O:function(a){return new S.nY(new X.nH(null),"Flutter Demo",!1,null)}}
+O:function(a){return new S.nY(new X.nH(null),"Goofy Hood",!1,null)}}
 N.m0.prototype={
 gl:function(a){return this.b},
 i:function(a,b){if(b>=this.b)throw H.c(P.aO(b,this,null,null,null))
